@@ -2,6 +2,38 @@
  * ============================================================================
  * EXAM PROGRAM 01: ARRAY (INSERT, DELETE, SEARCH, DISPLAY)
  * ============================================================================
+ * 📝 STEP-BY-STEP ALGORITHMS (Copy these directly onto your exam answer sheet!):
+ * 
+ * ALGORITHM 1: INSERTION AT INDEX `k`
+ *   Step 1: Start.
+ *   Step 2: Check for overflow: If size >= MAX_CAPACITY, report error and exit.
+ *   Step 3: Check boundary: If index `k` < 0 or `k` > size, report invalid index and exit.
+ *   Step 4: Shift elements rightwards: Loop `i` from `size - 1` down to `k`:
+ *             `arr[i + 1] = arr[i]`
+ *   Step 5: Insert new element: `arr[k] = value`.
+ *   Step 6: Increment size: `size = size + 1`.
+ *   Step 7: Stop.
+ * 
+ * ALGORITHM 2: LINEAR SEARCH FOR `target`
+ *   Step 1: Start.
+ *   Step 2: Initialize `foundIndex = -1`.
+ *   Step 3: Loop `i` from 0 to `size - 1`:
+ *             If `arr[i] == target`:
+ *               Set `foundIndex = i`, break loop.
+ *   Step 4: If `foundIndex != -1`, report element found at `foundIndex`.
+ *           Else, report element not found.
+ *   Step 5: Stop.
+ * 
+ * ALGORITHM 3: DELETION AT INDEX `k`
+ *   Step 1: Start.
+ *   Step 2: Check for underflow: If size == 0, report empty array and exit.
+ *   Step 3: Check boundary: If index `k` < 0 or `k` >= size, report invalid index and exit.
+ *   Step 4: Shift elements leftwards: Loop `i` from `k` up to `size - 2`:
+ *             `arr[i] = arr[i + 1]`
+ *   Step 5: Decrement size: `size = size - 1`.
+ *   Step 6: Stop.
+ * 
+ * ============================================================================
  * 🧠 60-SECOND EXAM MEMORIZATION TECHNIQUE:
  * 
  * 1. THE 3-WORD MNEMONIC FOR INSERTION: "TAIL SHIFTS RIGHT"

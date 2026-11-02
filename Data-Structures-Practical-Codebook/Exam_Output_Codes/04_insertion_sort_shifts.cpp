@@ -2,6 +2,27 @@
  * ============================================================================
  * EXAM PROGRAM 04: INSERTION SORT (CARD SHIFTS & COMPARISONS)
  * ============================================================================
+ * 📝 STEP-BY-STEP ALGORITHMS (Copy these directly onto your exam answer sheet!):
+ * 
+ * ALGORITHM: INSERTION SORT (Ascending Order with Shifts/Comparisons)
+ *   Step 1: Start.
+ *   Step 2: Initialize `shifts = 0`, `comparisons = 0`.
+ *   Step 3: Loop `i` from 1 to `n - 1`:
+ *             a. Pick current element as key: `key = arr[i]`.
+ *             b. Set predecessor pointer: `j = i - 1`.
+ *             c. While `j >= 0`:
+ *                  Increment `comparisons`.
+ *                  If `arr[j] > key`:
+ *                    Shift element right: `arr[j + 1] = arr[j]`.
+ *                    Increment `shifts`.
+ *                    Decrement `j`: `j = j - 1`.
+ *                  Else:
+ *                    Break while loop.
+ *             d. Drop key into its correct sorted slot: `arr[j + 1] = key`.
+ *   Step 4: Output sorted array, `comparisons`, and `shifts`.
+ *   Step 5: Stop.
+ * 
+ * ============================================================================
  * 🧠 60-SECOND EXAM MEMORIZATION TECHNIQUE:
  * 
  * 1. THE 3-STEP "PLAYING CARDS" FORMULA:

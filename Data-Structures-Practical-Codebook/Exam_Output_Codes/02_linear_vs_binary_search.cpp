@@ -2,6 +2,35 @@
  * ============================================================================
  * EXAM PROGRAM 02: SEARCHING (LINEAR SEARCH VS BINARY SEARCH)
  * ============================================================================
+ * 📝 STEP-BY-STEP ALGORITHMS (Copy these directly onto your exam answer sheet!):
+ * 
+ * ALGORITHM 1: LINEAR SEARCH
+ *   Step 1: Start.
+ *   Step 2: Initialize `comparisons = 0`, `foundIndex = -1`.
+ *   Step 3: Loop `i` from 0 to `n - 1`:
+ *             Increment `comparisons`.
+ *             If `arr[i] == target`:
+ *               Set `foundIndex = i`, break loop.
+ *   Step 4: Output `foundIndex` and `comparisons`.
+ *   Step 5: Stop.
+ * 
+ * ALGORITHM 2: BINARY SEARCH (Divide and Conquer)
+ *   Step 1: Start.
+ *   Step 2: Ensure array `arr` is SORTED in ascending order.
+ *   Step 3: Initialize `low = 0`, `high = n - 1`, `comparisons = 0`, `foundIndex = -1`.
+ *   Step 4: While `low <= high`:
+ *             a. Calculate midpoint: `mid = low + (high - low) / 2`.
+ *             b. Increment `comparisons`.
+ *             c. If `arr[mid] == target`:
+ *                  Set `foundIndex = mid`, break loop.
+ *             d. Else if `arr[mid] < target`:
+ *                  Discard left half: `low = mid + 1`.
+ *             e. Else:
+ *                  Discard right half: `high = mid - 1`.
+ *   Step 5: Output `foundIndex` and `comparisons`.
+ *   Step 6: Stop.
+ * 
+ * ============================================================================
  * 🧠 60-SECOND EXAM MEMORIZATION TECHNIQUE:
  * 
  * 1. LINEAR SEARCH MEMORY ANCHOR:

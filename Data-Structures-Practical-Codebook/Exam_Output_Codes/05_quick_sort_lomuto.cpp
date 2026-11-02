@@ -2,6 +2,30 @@
  * ============================================================================
  * EXAM PROGRAM 05: QUICK SORT (LOMUTO PARTITIONING)
  * ============================================================================
+ * 📝 STEP-BY-STEP ALGORITHMS (Copy these directly onto your exam answer sheet!):
+ * 
+ * ALGORITHM 1: LOMUTO PARTITION (arr, low, high)
+ *   Step 1: Start.
+ *   Step 2: Select the last element as the pivot: `pivot = arr[high]`.
+ *   Step 3: Initialize smaller element index boundary: `i = low - 1`.
+ *   Step 4: Loop scout pointer `j` from `low` to `high - 1`:
+ *             If `arr[j] <= pivot`:
+ *               Increment `i`: `i = i + 1`.
+ *               Swap `arr[i]` and `arr[j]`.
+ *   Step 5: Place pivot at its final sorted position:
+ *             Swap `arr[i + 1]` and `arr[high]`.
+ *   Step 6: Return pivot index `i + 1`.
+ *   Step 7: Stop.
+ * 
+ * ALGORITHM 2: QUICK SORT (arr, low, high)
+ *   Step 1: Start.
+ *   Step 2: If `low < high`:
+ *             a. Partition array and obtain pivot index: `pi = partition(arr, low, high)`.
+ *             b. Recursively sort elements before pivot: `quickSort(arr, low, pi - 1)`.
+ *             c. Recursively sort elements after pivot: `quickSort(arr, pi + 1, high)`.
+ *   Step 3: Stop.
+ * 
+ * ============================================================================
  * 🧠 60-SECOND EXAM MEMORIZATION TECHNIQUE:
  * 
  * 1. THE LOMUTO PARTITION 4-LINE FORMULA:

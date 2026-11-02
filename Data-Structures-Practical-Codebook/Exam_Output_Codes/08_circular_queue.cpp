@@ -2,6 +2,34 @@
  * ============================================================================
  * EXAM PROGRAM 08: CIRCULAR QUEUE (FIFO & MODULO WRAP-AROUND)
  * ============================================================================
+ * 📝 STEP-BY-STEP ALGORITHMS (Copy these directly onto your exam answer sheet!):
+ * 
+ * ALGORITHM 1: CIRCULAR ENQUEUE (Insert at rear)
+ *   Step 1: Start.
+ *   Step 2: Check overflow: If `count == MAX`, print "Queue Overflow" and exit.
+ *   Step 3: Advance rear cyclically: `rear = (rear + 1) % MAX`.
+ *   Step 4: Store value: `q[rear] = value`.
+ *   Step 5: Increment count: `count = count + 1`.
+ *   Step 6: Stop.
+ * 
+ * ALGORITHM 2: CIRCULAR DEQUEUE (Delete from front)
+ *   Step 1: Start.
+ *   Step 2: Check underflow: If `count == 0`, print "Queue Underflow" and exit.
+ *   Step 3: Retrieve front element: `removed = q[front]`.
+ *   Step 4: Advance front cyclically: `front = (front + 1) % MAX`.
+ *   Step 5: Decrement count: `count = count - 1`.
+ *   Step 6: Return `removed`.
+ *   Step 7: Stop.
+ * 
+ * ALGORITHM 3: DISPLAY CIRCULAR QUEUE
+ *   Step 1: Start.
+ *   Step 2: If `count == 0`, print "Queue is empty" and exit.
+ *   Step 3: Loop `i` from 0 to `count - 1`:
+ *             Calculate circular index: `idx = (front + i) % MAX`.
+ *             Print `q[idx]`.
+ *   Step 4: Stop.
+ * 
+ * ============================================================================
  * 🧠 60-SECOND EXAM MEMORIZATION TECHNIQUE:
  * 
  * 1. THE 3-VARIABLE ANCHOR:

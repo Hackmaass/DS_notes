@@ -2,6 +2,30 @@
  * ============================================================================
  * EXAM PROGRAM 06: SINGLY LINKED LIST (APPEND & TRAVERSAL)
  * ============================================================================
+ * 📝 STEP-BY-STEP ALGORITHMS (Copy these directly onto your exam answer sheet!):
+ * 
+ * ALGORITHM 1: APPEND NODE AT END (Tail Insertion)
+ *   Step 1: Start.
+ *   Step 2: Allocate memory dynamically for new node: `newNode = new Node(value)`.
+ *   Step 3: If list is empty (`head == nullptr`):
+ *             Set `head = newNode`, exit.
+ *   Step 4: Initialize traversal pointer: `curr = head`.
+ *   Step 5: While `curr->next != nullptr`:
+ *             Advance pointer: `curr = curr->next`.
+ *   Step 6: Attach new node to the last node: `curr->next = newNode`.
+ *   Step 7: Stop.
+ * 
+ * ALGORITHM 2: DISPLAY / TRAVERSAL OF SLL
+ *   Step 1: Start.
+ *   Step 2: If list is empty (`head == nullptr`), print "List is empty" and exit.
+ *   Step 3: Set traversal pointer: `curr = head`.
+ *   Step 4: While `curr != nullptr`:
+ *             Print `curr->data`.
+ *             Advance pointer: `curr = curr->next`.
+ *   Step 5: Print "NULL".
+ *   Step 6: Stop.
+ * 
+ * ============================================================================
  * 🧠 60-SECOND EXAM MEMORIZATION TECHNIQUE:
  * 
  * 1. THE NODE BLUEPRINT (Always write this first!):

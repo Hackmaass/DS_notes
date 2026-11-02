@@ -2,6 +2,24 @@
  * ============================================================================
  * EXAM PROGRAM 03: SELECTION SORT & TOP 5 HIGHEST SCORES
  * ============================================================================
+ * 📝 STEP-BY-STEP ALGORITHMS (Copy these directly onto your exam answer sheet!):
+ * 
+ * ALGORITHM: SELECTION SORT (Ascending Order) & TOP 5 EXTRACTION
+ *   Step 1: Start.
+ *   Step 2: Loop `i` from 0 to `n - 2`:
+ *             a. Assume current index `i` holds the minimum: `minIdx = i`.
+ *             b. Inner loop `j` from `i + 1` to `n - 1`:
+ *                  If `arr[j] < arr[minIdx]`:
+ *                    Update `minIdx = j`.
+ *             c. If `minIdx != i`:
+ *                  Swap `arr[i]` and `arr[minIdx]`.
+ *   Step 3: Output the sorted array.
+ *   Step 4: Extract Top 5 highest elements:
+ *             Loop `k` from 0 to 4:
+ *               Output `arr[n - 1 - k]` (read from the end of the ascending array).
+ *   Step 5: Stop.
+ * 
+ * ============================================================================
  * 🧠 60-SECOND EXAM MEMORIZATION TECHNIQUE:
  * 
  * 1. THE 3-STEP FORMULA: "FIND MIN, SWAP ONCE"

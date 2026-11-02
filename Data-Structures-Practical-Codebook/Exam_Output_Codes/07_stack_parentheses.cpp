@@ -2,6 +2,25 @@
  * ============================================================================
  * EXAM PROGRAM 07: STACK (PARENTHESES BALANCING CHECKER)
  * ============================================================================
+ * 📝 STEP-BY-STEP ALGORITHMS (Copy these directly onto your exam answer sheet!):
+ * 
+ * ALGORITHM: CHECK BALANCED PARENTHESES USING STACK
+ *   Step 1: Start.
+ *   Step 2: Initialize an empty stack: `top = -1`.
+ *   Step 3: Loop through each character `c` of the expression:
+ *             a. If `c` is an opening bracket (`(`, `{`, `[`):
+ *                  Push onto stack: `stack[++top] = c`.
+ *             b. Else if `c` is a closing bracket (`)`, `}`, `]`):
+ *                  i. Check underflow: If `top == -1`, return false (unbalanced).
+ *                 ii. Pop topmost bracket: `open = stack[top--]`.
+ *                iii. If `open` and `c` are not matching pairs:
+ *                       Return false (unbalanced).
+ *   Step 4: After processing the entire string:
+ *             If stack is empty (`top == -1`), return true (balanced).
+ *             Else, return false (unbalanced due to unclosed brackets).
+ *   Step 5: Stop.
+ * 
+ * ============================================================================
  * 🧠 60-SECOND EXAM MEMORIZATION TECHNIQUE:
  * 
  * 1. THE 3-STEP ALGORITHM FORMULA:
