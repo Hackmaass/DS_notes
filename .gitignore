@@ -1,0 +1,21 @@
+# Compiled Binaries & Object Files
+*.exe
+*.o
+*.obj
+*.out
+*.app
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS & Temp Files
+Thumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Logs
+*.log

@@ -1,0 +1,205 @@
+Set 1 –Maintain the records of N books (Book ID, Title, Price) using an array. Write functions to:
+a. Insert a new book at a given position
+b. Delete a book by Book ID
+c. Search a book by Book ID and display the record
+d. Display all books stored in the array
+Set 2 – Maintain the daily return status of issued books (R = Returned / N = Not returned) using a singly linked list. Write functions to:
+a. Insert a status (R/N) at the end of the list
+b. Update the status of a given day
+c. Calculate the total number of returned books
+d. Display the complete status list
+Set 1 – Problem 3 (Singly Linked List) Maintain the same daily return status list. Write functions to:
+a. Insert a status at the middle of the list
+b. Delete a status by day from the front
+c. Calculate the total number of books not returned
+d. Display the complete list
+Set 1 – Problem 4 (Doubly Linked List) Maintain a list of library members sorted by Member ID using a doubly linked list. Write functions to:
+a. Insert a member so that the list remains sorted
+b. Delete a member by Member ID
+c. Traverse forward and display all members
+d. Traverse backward and display all members in reverse order
+Set 1 – Problem 5 (Array vs Linked List) Store the number of books issued by N members using both an array and a linked list. Implement:
+a. Insert the count in both structures
+b. Display the memory representation (index and nodes)
+c. Count how many members issued more than 5 books
+Set 2: Hospital Management System
+Set 2 – Problem 1 (Array) Maintain the records of N patients (Patient ID, Name, Age) using an array. Write functions to:
+a. Insert a new patient at a given position
+b. Delete a patient by Patient ID
+c. Search a patient by Patient ID and display the record
+d. Display all patients
+Set 2 – Problem 2 (Singly Linked List) Maintain the daily check-up status of a patient (C = Completed / M = Missed) using a singly linked list. Write functions to:
+a. Insert a status at the end of the list
+b. Update the status of a given day
+c. Calculate the total number of completed check-ups
+d. Display the complete status list
+Set 2 – Problem 3 (Singly Linked List) Using the same list, write functions to:
+a. Insert a status at the middle of the list
+b. Delete a status by day from the front
+c. Calculate the total number of missed check-ups
+d. Display the complete list
+Set 2 – Problem 4 (Doubly Linked List) Maintain a list of doctors sorted by Doctor ID using a doubly linked list. Write functions to:
+a. Insert a doctor so that the list remains sorted
+b. Delete a doctor by Doctor ID
+c. Traverse forward and display all doctors
+d. Traverse backward and display all doctors in reverse order
+Set 2 – Problem 5 (Array vs Linked List) Store the body temperature readings of N patients using both an array and a linked list. Implement:
+a. Insert the readings in both structures
+b. Display the memory representation (index and nodes)
+c. Count how many patients have a temperature above 100°F
+Set 3: Inventory and Warehouse System
+Set 3 – Problem 1 (Array) Maintain the records of N products (Product ID, Name, Quantity) using an array. Write functions to:
+a. Insert a new product at a given position
+b. Delete a product by Product ID
+c. Search a product by Product ID and display the record
+d. Display all products
+Set 3 – Problem 2 (Singly Linked List) Maintain the daily stock status of a product (A = Available / O = Out of stock) using a singly linked list. Write functions to:
+a. Insert a status at the end of the list
+b. Update the status of a given day
+c. Calculate the total number of days the product was available
+d. Display the complete status list
+Set 3 – Problem 3 (Singly Linked List) Using the same list, write functions to:
+a. Insert a status at the middle of the list
+b. Delete a status by day from the front
+c. Calculate the total number of out-of-stock days
+d. Display the complete list
+Set 3 – Problem 4 (Doubly Linked List) Maintain a list of suppliers sorted by Supplier ID using a doubly linked list. Write functions to:
+a. Insert a supplier so that the list remains sorted
+b. Delete a supplier by Supplier ID
+c. Traverse forward and display all suppliers
+d. Traverse backward and display all suppliers in reverse order
+Set 3 – Problem 5 (Array vs Linked List) Store the monthly sales units of N products using both an array and a linked list. Implement:
+a. Insert the sales figures in both structures
+b. Display the memory representation (index and nodes)
+c. Count how many products sold more than 500 units
+Set 4: Bank Management System
+Set 4 – Problem 1 (Array) Maintain the records of N customers (Account No, Name, Balance) using an array. Write functions to:
+a. Insert a new customer at a given position
+b. Delete a customer by Account No
+c. Search a customer by Account No and display the record
+d. Display all customers
+Set 4 – Problem 2 (Singly Linked List) Maintain the daily EMI payment status of a loan (P = Paid / D = Due) using a singly linked list. Write functions to:
+a. Insert a status at the end of the list
+b. Update the status of a given day
+c. Calculate the total number of paid EMIs
+d. Display the complete status list
+Set 4 – Problem 3 (Singly Linked List) Using the same list, write functions to:
+a. Insert a status at the middle of the list
+b. Delete a status by day from the front
+c. Calculate the total number of due EMIs
+d. Display the complete list
+Set 4 – Problem 4 (Doubly Linked List) Maintain a list of loan applicants sorted by Application No using a doubly linked list. Write functions to:
+a. Insert an applicant so that the list remains sorted
+b. Delete an applicant by Application No
+c. Traverse forward and display all applicants
+d. Traverse backward and display all applicants in reverse order
+Set 4 – Problem 5 (Array vs Linked List) Store the account balances of N customers using both an array and a linked list. Implement:
+a. Insert the balances in both structures
+b. Display the memory representation (index and nodes)
+c. Count how many customers have a balance above ₹50,000
+Part B: Stack and Queue
+Set 1: Library Management System
+Set 1 – Problem 1 (Stack) Simulate the page navigation history of an online library catalogue using a stack. Write functions to:
+a. Visit a new page (push URL)
+b. Go back to the previous page (pop URL)
+c. Display the current page
+d. Show the entire browsing history stack
+Set 1 – Problem 2 (Stack) Given a late-fine calculation formula in infix form (for example, (Days * Rate) + Fixed - Waiver), write a program to:
+a. Convert the infix expression to postfix
+b. Evaluate the postfix expression for given inputs
+Set 1 – Problem 3 (Stack) Write a program to check balanced parentheses in a book-search query expression using a stack.
+Set 1 – Problem 4 (Stack) Write a program for the Library Fine Billing System to compute the final payable fine of a member.
+a. Read the fine formula in infix form as entered by the librarian
+b. Convert the infix expression to postfix using a stack
+c. Display the postfix expression after conversion
+d. Accept values for LateDays, DailyRate, DamageCharge, and Waiver from the user
+e. Evaluate the postfix expression using a stack
+f. Display the final payable fine
+g. Display the intermediate stack contents during conversion and evaluation
+Set 1 – Problem 5 (Queue) Simulate the book issue counter queue of a library.
+a. Enqueue a member's token number
+b. Dequeue and display the member being served
+c. Display the front and rear token numbers
+d. Display the complete queue
+Set 2: Hospital Management System
+Set 2 – Problem 1 (Stack) Simulate the page navigation history of a hospital patient portal using a stack. Write functions to:
+a. Visit a new page (push URL)
+b. Go back to the previous page (pop URL)
+c. Display the current page
+d. Show the entire browsing history stack
+Set 2 – Problem 2 (Stack) Given a bill calculation formula in infix form (for example, (Consultation + Medicine) * Days - Insurance), write a program to:
+a. Convert the infix expression to postfix
+b. Evaluate the postfix expression for given inputs
+Set 2 – Problem 3 (Stack) Write a program to check balanced parentheses in a medical dosage formula using a stack.
+Set 2 – Problem 4 (Stack) Write a program for the Hospital Billing System to compute the final payable bill of a patient.
+a. Read the bill formula in infix form as entered by the accountant
+b. Convert the infix expression to postfix using a stack
+c. Display the postfix expression after conversion
+d. Accept values for Consultation, RoomCharge, Medicine, and Insurance from the user
+e. Evaluate the postfix expression using a stack
+f. Display the final payable bill
+g. Display the intermediate stack contents during conversion and evaluation
+Set 2 – Problem 5 (Queue) Simulate the OPD (outpatient department) queue of a hospital.
+a. Enqueue a patient's token number
+b. Dequeue and display the patient being called
+c. Display the front and rear token numbers
+d. Display the complete queue
+Set 3: Inventory and Warehouse System
+Set 3 – Problem 1 (Stack) Simulate the page navigation history of a warehouse management portal using a stack. Write functions to:
+a. Visit a new page (push URL)
+b. Go back to the previous page (pop URL)
+c. Display the current page
+d. Show the entire browsing history stack
+Set 3 – Problem 2 (Stack) Given a price calculation formula in infix form (for example, (Cost * Qty) + Shipping - Discount), write a program to:
+a. Convert the infix expression to postfix
+b. Evaluate the postfix expression for given inputs
+Set 3 – Problem 3 (Stack) Write a program to check balanced parentheses in a stock-valuation expression using a stack.
+Set 3 – Problem 4 (Stack) Write a program for the Purchase Billing System to compute the final payable amount of an order.
+a. Read the price formula in infix form as entered by the manager
+b. Convert the infix expression to postfix using a stack
+c. Display the postfix expression after conversion
+d. Accept values for UnitCost, Quantity, Shipping, and Discount from the user
+e. Evaluate the postfix expression using a stack
+f. Display the final payable amount
+g. Display the intermediate stack contents during conversion and evaluation
+Set 3 – Problem 5 (Queue) Simulate the goods dispatch queue of a warehouse.
+a. Enqueue an order number
+b. Dequeue and display the order being dispatched
+c. Display the front and rear order numbers
+d. Display the complete queue
+Set 4: Bank Management System
+Set 4 – Problem 1 (Stack) Simulate the page navigation history of an internet banking portal using a stack. Write functions to:
+a. Visit a new page (push URL)
+b. Go back to the previous page (pop URL)
+c. Display the current page
+d. Show the entire browsing history stack
+Set 4 – Problem 2 (Stack) Given an interest calculation formula in infix form (for example, (Principal * Rate * Time) / 100), write a program to:
+a. Convert the infix expression to postfix
+b. Evaluate the postfix expression for given inputs
+Set 4 – Problem 3 (Stack) Write a program to check balanced parentheses in a loan-eligibility expression using a stack.
+Set 4 – Problem 4 (Stack) Write a program for the Loan Billing System to compute the final payable loan amount of a customer.
+a. Read the loan formula in infix form as entered by the bank officer
+b. Convert the infix expression to postfix using a stack
+c. Display the postfix expression after conversion
+d. Accept values for Principal, Interest, ProcessingFee, and Rebate from the user
+e. Evaluate the postfix expression using a stack
+f. Display the final payable amount
+g. Display the intermediate stack contents during conversion and evaluation
+Set 4 – Problem 5 (Queue) Simulate the teller counter queue of a bank.
+a. Enqueue a customer's token number
+b. Dequeue and display the customer being served
+c. Display the front and rear token numbers
+d. Display the complete queue
+Operations Covered
+Structure
+Operations
+Array
+Insert at position, delete by key, search by key, display, count by condition
+Singly Linked List
+Insert at end, insert at middle, update node, delete from front, count by condition, display
+Doubly Linked List
+Sorted insert, delete by key, forward traversal, backward traversal
+Stack
+Push, pop, peek (current page), display, infix to postfix conversion, postfix evaluation, parenthesis matching
+Queue
+Enqueue, dequeue, display front and rear, display complete queue

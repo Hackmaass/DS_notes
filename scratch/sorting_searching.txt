@@ -1,0 +1,79 @@
+Set 1: Library Management System
+Problem 1 Prepare a ranked list of the most-issued books based on the number of times each book was issued. Implement:
+a. Selection sort for descending issue count
+b. Insertion sort and count the number of shifts
+c. Display the top 5 most-issued books
+Set2  For the library office, search a book record (Book ID, Title, Author). Implement:
+a. Linear search by Title
+b. Binary search by Book ID (sort the records first)
+c. Display the number of comparisons for each search
+Problem 3 (Quick Sort, CO2) Arrange the fine amounts collected from members using Quick Sort. Implement:
+a. Partition the list
+b. Recursively apply Quick Sort
+c. Display the sorted fine list
+Problem 4 (Selection and Bubble Sort, CO2) Store the prices of books in an array. Write functions for sorting the array of floating-point numbers in ascending order using:
+a. Selection Sort
+b. Bubble Sort, and display the five highest prices
+Set 2: Hospital Management System
+Problem 1 (Sorting, CO1, CO2) Prepare a priority list of patients based on severity score. Implement:
+a. Selection sort for descending severity score
+b. Insertion sort and count the number of shifts
+c. Display the top 5 most critical patients
+Problem 2 (Searching, CO1, CO2) For the hospital reception, search a patient record (Patient ID, Name, Ward). Implement:
+a. Linear search by Name
+b. Binary search by Patient ID (sort the records first)
+c. Display the number of comparisons for each search
+Problem 3 (Quick Sort, CO2) Arrange the body temperature readings of patients using Quick Sort. Implement:
+a. Partition the list
+b. Recursively apply Quick Sort
+c. Display the sorted temperature list
+Problem 4 (Selection and Bubble Sort, CO2) Store the bill amounts of patients in an array. Write functions for sorting the array of floating-point numbers in ascending order using:
+a. Selection Sort
+b. Bubble Sort, and display the five highest bills
+Set 3: Inventory and Warehouse System
+Problem 1 (Sorting, CO1, CO2) Prepare a best-seller list of products based on monthly sales units. Implement:
+a. Selection sort for descending sales units
+b. Insertion sort and count the number of shifts
+c. Display the top 5 best-selling products
+Problem 2 (Searching, CO1, CO2) For the warehouse office, search a product record (Product ID, Name, Category). Implement:
+a. Linear search by Name
+b. Binary search by Product ID (sort the records first)
+c. Display the number of comparisons for each search
+Problem 3 (Quick Sort, CO2) Arrange the unit prices of products using Quick Sort. Implement:
+a. Partition the list
+b. Recursively apply Quick Sort
+c. Display the sorted price list
+Problem 4 (Selection and Bubble Sort, CO2) Store the stock quantities of products in an array. Write functions for sorting the array of floating-point numbers in ascending order using:
+a. Selection Sort
+b. Bubble Sort, and display the five highest stock quantities
+Set 4: Bank Management System
+Problem 1 (Sorting, CO1, CO2) Prepare a ranked list of customers based on account balance. Implement:
+a. Selection sort for descending balance
+b. Insertion sort and count the number of shifts
+c. Display the top 5 customers
+Problem 2 (Searching, CO1, CO2) For the bank help desk, search a customer record (Account No, Name, Branch). Implement:
+a. Linear search by Name
+b. Binary search by Account No (sort the records first)
+c. Display the number of comparisons for each search
+Problem 3 (Quick Sort, CO2) Arrange the loan interest rates of customers using Quick Sort. Implement:
+a. Partition the list
+b. Recursively apply Quick Sort
+c. Display the sorted interest rate list
+Problem 4 (Selection and Bubble Sort, CO2) Store the transaction amounts of customers in an array. Write functions for sorting the array of floating-point numbers in ascending order using:
+a. Selection Sort
+b. Bubble Sort, and display the five highest transactions
+Operations Covered
+Topic
+Operations
+Selection Sort
+Find the min/max, swap, descending and ascending order
+Insertion Sort
+Shift elements, count the shifts
+Bubble Sort
+Adjacent swaps, top-N display
+Quick Sort
+Partition, recursive calls
+Linear Search
+Sequential search by name, comparison count
+Binary Search
+Sort first, search by ID, comparison count

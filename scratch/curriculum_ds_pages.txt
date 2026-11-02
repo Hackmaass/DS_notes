@@ -1,0 +1,1950 @@
+=== PAGE 1 ===
+ 
+ 
+NUTAN MAHARASHTRA VIDYA PRASARAK MANDAL’S 
+NUTAN MAHARASHTRA INSTITUTE OF ENGINEERING                        
+AND TECHNOLOGY 
+AN AUTONOMOUS INSTITUTE | UNDER ADMINISTRATIVE SUPPORT OF PCET 
+_____________________________________________________________________________________ 
+ 
+ 
+ 
+ 
+Curriculum Structure and Syllabus  
+of  
+Second Year B. Tech. Computer Engineering 
+(2025 Pattern) 
+
+
+=== PAGE 2 ===
+SI. No. 
+Nutan Maharashtra Vidya Prasarak Mandal's (NMVPM's) 
+NUTAN MAHARASHTRA INSTITUTE OF 
+ENGINEERING AND TECHNOLOGY (NMIET) 
+3 
+An Autonomous Institute from 2025 - 26 
+Under Administrative Support - Pimpri Chinchwad Education Trust (PCET) 
+Course Approval Summary - Board of Studies Computer Engineering 
+Approved By 
+1 
+Chairman, Board of Studies, Computer Engineering 
+Secretary, Academic Council, NMIET, Pune 
+Chairman, Academic Council, NMIET, Pune 
+Signature and Stamp of 
+Authority 
+HEAD CF THE DEPA.. 
+ESTD: 1906 
+Computer Engineering 
+Nutan Maharashtra inst. of Engg. & Tech 
+Ta'egaon Dabhade, Pune -410 507 
+Director 
+Nutan Maharashtra Institute of 
+Engineering & Technology 
+Talegaon Dabhade-410507 
+
+
+=== PAGE 3 ===
+ 
+ 
+ 
+VISION OF THE INSTITUTE 
+To be a notable institution for providing quality technical education and ensuring ethical, moral 
+and holistic development of students. 
+ 
+MISSION OF THE INSTITUTE 
+To nurture engineering graduates with state of the art competence, professionalism and problem 
+solving skills to serve needs of industry as well as society. 
+ 
+ 
+ 
+VISION OF COMPUTER ENGINEERING 
+Imbibing Quality Technical Education and Overall Development by Endowing Students with 
+Societal and Ethical skills in Computer Engineers. 
+ 
+MISSION OF COMPUTER ENGINEERING 
+ To impart engineering knowledge and skills by adopting effective teaching learning 
+processes. 
+ To develop professional, entrepreneurial & research competencies encompassing 
+continuous intellectual growth. 
+ To produce educated students to exhibit societal and ethical responsibilities in the working 
+environment. 
+ 
+ 
+ 
+
+
+=== PAGE 4 ===
+ 
+ 
+INDEX 
+ 
+ 
+Sl. No. 
+Content 
+Page No. 
+1. 
+Course Wise Credit Distribution 
+1 
+2. 
+Semester Wise Course Distribution 
+2 
+3. 
+Semester Wise Credit Distribution 
+3 
+4. 
+Curriculum Structure – S.Y. B.Tech. Semester III 
+4 
+5. 
+List of Courses – Program Electives and Open Electives 
+5 
+6. 
+Curriculum Structure – S.Y. B.Tech. Semester IV 
+6 
+7. 
+List of Courses – Program Electives and Open Electives 
+7 
+8. 
+Course Syllabus Semester-III 
+8 
+9. 
+Course Syllabus Semester-IV 
+57 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== PAGE 5 ===
+ 
+1 | P a g e 
+ Curriculum: S.Y. B.Tech. Computer Engineering 
+COURSE-WISE CREDIT DISTRIBUTION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sl. No. 
+Type of Course 
+No. of Courses 
+Total Credits 
+No. 
+% 
+1.  Basic Science Course (BSC) 
+8 
+14 
+8.14 
+2.  Engineering Core Course (ECC) 
+10 
+15 
+8.72 
+3.  Programme Core Course (PCC) 
+28 
+54 
+31.40 
+4.  Programme Elective Course (PEC) 
+9 
+20 
+11.63 
+5.  Multidisciplinary Minor (MDM) 
+7 
+13 
+7.56 
+6.  Open Elective Course (OEC) 
+3 
+8 
+4.65 
+7.  Vocational and Skill Enhancement Course (VSEC) 
+4 
+8 
+4.65 
+8.  Ability Enhancement Course (AEC) 
+2 
+4 
+2.33 
+9.  Entrepreneurship / Management Course(EMC) 
+2 
+4 
+2.33 
+10.  Value Education Course (VEC) 
+2 
+4 
+2.33 
+11.  Experiential Learning Courses 
+8 
+22 
+12.79 
+12.  
+Indian Knowledge System 
+1 
+2 
+1.16 
+13.  
+Co-curricular Courses 
+2 
+4 
+2.33 
+TOTAL 
+86 
+172 
+100 
+
+
+=== PAGE 6 ===
+ 
+2 | P a g e 
+ Curriculum: S.Y. B.Tech. Computer Engineering 
+SEMESTER-WISE COURSE DISTRIBUTION 
+ 
+ 
+COURSE DISTRIBUTION: 
+SEMESTER WISE 
+Sl 
+No. 
+TYPE OF COURSE 
+NO. OF COURSES / SEMESTER 
+Total 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+1. 
+Basic Science Course (BSC) 
+4 
+4 
+- 
+- 
+- 
+- 
+- 
+- 
+8 
+2. 
+Engineering Science Course (ESC) 
+6 
+4 
+- 
+- 
+- 
+- 
+- 
+- 
+10 
+3. 
+Programme Core Course (PCC) 
+- 
+2 
+5 
+5 
+5 
+5 
+4 
+2 
+28 
+4. 
+Programme Elective Course (PEC) 
+- 
+2 
+- 
+- 
+2 
+3 
+2 
+2 
+11 
+5. 
+Multidisciplinary Minor (MDM) 
+- 
+- 
+1 
+1 
+2 
+1 
+-    2 
+7 
+6. 
+Open Elective Course (OEC) 
+- 
+- 
+1 
+1 
+1 
+- 
+- 
+ - 
+3 
+7. 
+Vocational and Skill Enhancement Course (VSEC) 
+1 
+1 
+1 
+1 
+- 
+- 
+- 
+ - 
+4 
+8. 
+Ability Enhancement Course (AEC) 
+1 
+1 
+- 
+1 
+- 
+- 
+- 
+  - 
+3 
+9. 
+Entrepreneurship / Management Course(EMC) 
+- 
+- 
+1 
+1 
+- 
+- 
+- 
+  - 
+2 
+10. 
+Value Education Course (VEC) 
+- 
+- 
+1 
+1 
+- 
+- 
+- 
+  - 
+2 
+11. 
+Experiential Learning Courses 
+- 
+- 
+- 
+1 
+1 
+1 
+1   1 
+5 
+12. 
+Indian Knowledge System 
+- 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+1 
+13. 
+Co-curricular Courses 
+1 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+Total 
+13 
+16 
+10 
+12 11 
+10 
+07 
+07 
+86 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== PAGE 7 ===
+ 
+3 | P a g e 
+ Curriculum: S.Y. B.Tech. Computer Engineering 
+SEMESTER-WISE CREDIT DISTRIBUTION 
+ 
+COURSE DISTRIBUTION: SEMESTER WISE 
+1 Lecture hour = 1 Credit, 2 Lab Hours = 1 Credit, 1 Tutorial Hour = 1 Credit 
+Sl 
+No. 
+TYPE OF COURSE 
+NO. OF COURSES / SEMESTER 
+Total 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+1. 
+Basic Science Course (BSC) 
+7 
+7 
+- 
+- 
+- 
+- 
+- 
+- 
+14 
+2. 
+Engineering Science Course (ESC) 
+9 
+6 
+- 
+- 
+- 
+- 
+- 
+- 
+15 
+3. 
+Programme Core Course (PCC) 
+- 
+3 
+10 
+10 10 
+8 
+8 
+4 
+53 
+4. 
+Programme Elective Course (PEC) 
+- 
+- 
+- 
+- 
+4 
+8 
+4 
+4 
+20 
+5. 
+Multidisciplinary Minor (MDM) 
+- 
+- 
+2 
+2 
+4 
+2 
+- 
+4 
+14 
+6. 
+Open Elective Course (OEC) 
+- 
+- 
+4 
+2 
+2 
+- 
+-    - 
+8 
+7. 
+Vocational and Skill Enhancement Course (VSEC) 
+2 
+2 
+2 
+2 
+- 
+2 
+-    - 
+10 
+8. 
+Ability Enhancement Course (AEC) 
+2 
+- 
+- 
+2 
+- 
+- 
+-    - 
+4 
+9. 
+Entrepreneurship / Management Course(EMC) 
+- 
+- 
+2 
+2 
+- 
+- 
+-    - 
+4 
+10. 
+Value Education Course (VEC) 
+- 
+- 
+2 
+- 
+- 
+- 
+- 
+  - 
+2 
+11. 
+Experiential Learning Courses 
+- 
+- 
+- 
+2 
+2 
+2 
+8 
+8 
+22 
+12. 
+Indian Knowledge System 
+- 
+2 
+- 
+- 
+- 
+- 
+- 
+   - 
+2 
+13. 
+Co-curricular Courses 
+2 
+2 
+- 
+- 
+- 
+- 
+- 
+   - 
+4 
+Total 
+22 
+22 
+22 
+22 22 
+22 
+20 
+20 
+172 
+ 
+ 
+ 
+ 
+ 
+
+
+=== PAGE 8 ===
+ 
+4 | P a g e 
+ Curriculum: S.Y. B.Tech. Computer Engineering 
+                  CURRICULUM STRUCTURE 
+Second Year B. Tech. Computer Engineering 
+ Semester – III 
+Level 5.0 
+Second Year B. Tech Computer Engineering 
+Semester III 
+ 
+ 
+Sl. 
+No. 
+ 
+Course 
+Code 
+Course Type 
+Course Name 
+Credits 
+Teaching Scheme 
+(Hours/Week) 
+Examination Scheme and Marks 
+CCE 
+ESE 
+ 
+PR 
+ 
+OR 
+ 
+TW TOTAL 
+TH TUT PR 
+L 
+T 
+P 
+UT 
+FA 
+SA 
+25 
+25 
+50 
+1 CE25PCC-
+201 
+Programme 
+Core Course 
+Operating System and 
+Administration 
+2 
+ 
+ 
+2 
+ 
+ 
+25 
+25 
+50 
+ 
+ 
+ 
+100 
+2 CE25PCC-
+202 
+Programme 
+Core Course 
+Data Structures 
+2 
+ 
+ 
+2 
+ 
+ 
+25 
+25 
+50 
+ 
+ 
+ 
+100 
+3 CE25PCC-
+203 
+Programme 
+Core Course 
+Data Structures 
+Laboratory 
+ 
+ 
+2 
+ 
+ 
+4 
+ 
+ 
+ 
+50 
+ 
+25 
+75 
+4 CE25PCC-
+204 
+Programme 
+Core Course 
+Object Oriented 
+Programming 
+2 
+ 
+ 
+2 
+ 
+ 
+25 
+25 
+50 
+ 
+ 
+ 
+100 
+5 CE25PCC-
+205 
+Programme 
+Core Course 
+Object Oriented 
+Programming 
+Laboratory 
+ 
+ 
+2 
+ 
+ 
+4 
+ 
+ 
+ 
+50 
+ 
+25 
+75 
+6 CE25MDM
+-206 
+Multi-
+disciplinary  
+Minor Course 
+Computer Organization 
+and Architecture 
+2 
+ 
+ 
+2 
+ 
+  
+25 
+25 
+50 
+ 
+ 
+ 
+100 
+7 
+-- 
+Open Elective 
+Course 
+Open Elective Course-I 
+3 
+1 
+ 
+3 
+1 
+ 
+25 
+25 
+50 
+ 
+ 
+ 
+100 
+8 
+-- 
+Value 
+Education  
+Course 
+Value Education 
+Course-I 
+  
+1 
+1 
+ 
+1 
+2 
+ 
+ 
+ 
+ 
+ 
+25 
+25 
+9 CE25VSEC
+-209 
+Vocational 
+and Skill 
+Enhancement 
+Course 
+Vocational and Skill 
+Enhancement Course- I 
+  
+ 
+2 
+ 
+ 
+4 
+ 
+ 
+ 
+ 
+25 
+25 
+50 
+10 IL25EMC-
+210 
+Entrepreneurs
+hip / 
+Management 
+Course 
+Principles of 
+Management and 
+Entrepreneurship 
+  
+1 
+1 
+ 
+1 
+2 
+ 
+ 
+ 
+ 
+ 
+25 
+25 
+ 
+TOTAL 
+11 
+3 
+8 
+11 
+3 
+16 
+125 
+125 
+250 
+100 25 125 
+750 
+22 
+30 
+ 
+CCE- Comprehensive Continuous Evaluation, ESE- End Semester Evaluation, TW-Term Work, OR-Oral, PR-
+Practical, TH- Theory, L-Lecture, T/TUT-Tutorial, UT- Unit Test, FA–Formative Assessment, SA – Summative 
+Assessment
+
+
+=== PAGE 9 ===
+ 
+5 | P a g e 
+ Curriculum: S.Y. B.Tech. Computer Engineering 
+ 
+ 
+Basket: List of Courses – Open Elective Course -I 
+ 
+Course Code 
+Course Name 
+ 
+ 
+ 
+ 
+ 
+Choose Any One 
+CE25OEC-207 
+Computational Mathematics 
+CAI25OEC-207 
+Probability Theory and Statistical Methods 
+AIDS25OEC-207 
+Probability and Statistics 
+IT25OEC-207 
+Numerical Statistical Analysis 
+ETC25OEC-207 
+Vectors and  Transforms 
+ME25OEC-207 
+Applied Mathematics 
+ 
+ 
+ 
+Basket: List of Courses – Value Education Course -I 
+ 
+Course Code 
+Course Name 
+ 
+ 
+ 
+Choose Any One 
+CSE25VEC-208 
+Universal Human Values 
+ETC25VEC-208A 
+Professional Ethics for Engineers 
+ETC25VEC-208B 
+Social Connect and Responsibility 
+ 
+ 
+Basket: List of Courses – Vocational and Skill Enhancement 
+Course -I 
+ 
+Course Code 
+Course Name 
+ 
+ 
+ 
+Choose Any One 
+CE25VSEC-209A 
+Scientific Computing with Python 
+CE25VSEC-209B 
+Scientific Computing with R Programming 
+CE25VSEC-209C 
+Scientific Computing with MatLab 
+ 
+ 
+ 
+
+
+=== PAGE 10 ===
+ 
+6 | P a g e 
+ Curriculum: S.Y. B.Tech. Computer Engineering 
+                        CURRICULUM STRUCTURE 
+Second Year B.Tech. Computer Engineering 
+Semester – IV 
+Level 5.0 
+Second Year B. Tech Computer Engineering 
+Semester IV 
+ 
+Sl. 
+No. 
+ 
+Course 
+Code 
+ 
+ 
+Course Type 
+ 
+ 
+Course Name 
+Credits 
+Teaching Scheme 
+(Hours/Week) 
+Examination Scheme and Marks 
+CCE 
+ESE 
+PR OR TW TOTAL 
+TH TUT PR 
+L 
+T 
+P 
+UT 
+FA 
+SA 
+25 
+25 
+50 
+1 CE25PCC-
+251 
+Programme 
+Core Course 
+Software Engineering 
+2 
+ 
+ 
+2 
+ 
+ 
+25 
+25 
+50 
+ 
+ 
+ 
+100 
+2 CE25PCC-
+252 
+Programme 
+Core Course 
+Database Management 
+System 
+2 
+ 
+ 
+2 
+ 
+ 
+25 
+25 
+50 
+ 
+ 
+ 
+100 
+3 CE25PCC-
+253 
+Programme 
+Core Course 
+Database Management 
+System Laboratory 
+ 
+ 
+2 
+ 
+ 
+4 
+ 
+ 
+ 
+50 
+ 
+25 
+75 
+4 CE25PCC-
+254 
+Programme 
+Core Course 
+Advanced Data 
+Structures 
+2 
+ 
+ 
+2 
+ 
+ 
+25 
+25 
+50 
+ 
+ 
+ 
+100 
+5 CE25PCC-
+255 
+Programme 
+Core Course 
+Advanced Data 
+Structures Laboratory 
+ 
+ 
+2 
+ 
+ 
+4 
+ 
+ 
+ 
+25 
+ 
+25 
+50 
+6 CE25MDM
+-256 
+Multi-
+disciplinary  
+Minor Course 
+Microprocessors and 
+Microcontrollers 
+2 
+ 
+ 
+2 
+ 
+ 
+25 
+25 
+50 
+ 
+ 
+ 
+100 
+7 
+-- 
+Open Elective 
+Course 
+Open Elective Course-II 
+2 
+ 
+ 
+2 
+ 
+ 
+25 
+25 
+50 
+ 
+ 
+ 
+100 
+8 
+-- 
+Value 
+Education 
+Course 
+Value Education 
+Course-II 
+1 
+1 
+ 
+1 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+25 
+25 
+9 CE25ELC-
+259 
+Experiential 
+Learning 
+Course 
+Community 
+Engagement Project 
+ 
+ 
+2 
+ 
+ 
+4 
+ 
+ 
+ 
+ 
+50 
+ 
+50 
+10 IL25EMC-
+260 
+Entrepreneurs
+hip / 
+Management 
+Course 
+Entrepreneurship Skills 
+Development 
+ 
+1 
+1 
+ 
+1 
+2 
+ 
+ 
+ 
+ 
+ 
+25 
+25 
+11 IL25AEC-
+261 
+Ability 
+Enhancement 
+Course 
+Modern Indian 
+Languages ( Marathi) 
+1 
+ 
+1 
+1 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+25 
+25 
+TOTAL 
+12 
+2 
+8 
+12 
+2 
+16 
+125 
+125 
+250 
+75 
+50 125 
+750 
+22 
+30 
+ 
+CCE- Comprehensive Continuous Evaluation, ESE- End Semester Evaluation, TW-Term Work, OR-Oral, PR-
+Practical, TH- Theory, L-Lecture, T/TUT-Tutorial, UT- Unit Test, FA–Formative Assessment, SA – Summative 
+Assessment
+
+
+=== PAGE 11 ===
+ 
+7| P a g e 
+Curriculum: S.Y. B.Tech. Computer Engineering 
+ 
+ 
+ 
+ 
+ 
+Basket: List of Courses – Open Elective Course –II 
+ 
+Course Code 
+Course Name 
+Choose Any One 
+CE25OEC-257 
+Digital Marketing 
+ETC25OEC-257 
+Engineering Economics 
+ME25OEC-257 
+Digital Finance 
+ 
+ 
+ 
+Basket: List of Courses – Value Education Course -II 
+ 
+Course Code 
+Course Name 
+ 
+ 
+Choose Any One 
+CE25VEC-258 
+Indian Constitution 
+AIDS25VEC-258 
+Environmental Science 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== PAGE 12 ===
+ 
+8| P a g e 
+Curriculum: S.Y. B.Tech. Computer Engineering 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course Syllabus 
+    Semester-III 
+
+
+=== PAGE 13 ===
+ 
+9| P a g e 
+Curriculum: S.Y. B.Tech. Computer Engineering 
+ 
+Program 
+S.Y. B.Tech (Computer Engineering) 
+Semester: III 
+Course 
+Operating System and Administration 
+Code: 
+CE25PCC-201 
+Credits 
+Teaching Scheme (Hrs./Week) 
+Examination Scheme and Marks 
+Lecture 
+Practical 
+Tutorial 
+UT 
+FA 
+SA 
+Total 
+2 
+2 
+- 
+- 
+25 
+25 
+50 
+100 
+ Pre-requisites:  Prior knowledge of programming fundamentals is essential. 
+Course Objectives: This course aims at enabling students: 
+1. To introduce the fundamental concepts, structure, and functions of operating systems. 
+2. To understand process management, scheduling, and deadlock handling mechanisms. 
+3. To learn memory management and virtual memory 
+4. To study file system organization and administration 
+Course Outcome:  After completion of the course, the students will be able to: 
+CO1: Explain fundamentals of Operating Systems, including types, structures and system calls and      
+           process 
+CO2: Analyze IPC mechanisms and solutions of process synchronization for dealing with deadlock. 
+CO3: Apply techniques of memory management to solve memory management problems 
+CO4: Apply file management policies and command-line tools for system administration 
+Course Contents 
+Unit 
+Description 
+Duration 
+[Hrs] 
+I 
+Introduction to Operating Systems and Process 
+Overview of Operating Systems, OS Structure, System Components, Types of 
+Operating Systems. System Calls, Operating System Services. 
+Process Concept -Process states, Process control block, Threads -Introduction, 
+POSIX / pthreads. Process Scheduling: Basic Concepts, Scheduling Criteria, 
+Scheduling Algorithms. 
+7 
+II 
+Inter Process Communication and Deadlock  
+Inter process Communication mechanisms: Pipes, shared memory, Message 
+passing Process Synchronization: Introduction, Critical Section Problem, 
+Hardware Support for Synchronization, Mutex Locks, Semaphores, 
+Synchronization problem: Reader-writer, producer-consumer problem, Dining 
+Philosophers problem. 
+Deadlocks: Conditions, Prevention, Avoidance (Banker’s Algorithm), 
+Detection, Recovery 
+8 
+III 
+Memory Management 
+Introduction, Contiguous and non-contiguous, Partitioning - Fixed and 
+Variable, 
+Fragmentation, 
+Memory 
+Allocation 
+Strategies, 
+Paging, 
+Segmentation, Virtual Memory: Basics, Demand paging, Page Fault, Page 
+7 
+
+
+=== PAGE 14 ===
+ 
+10| P a g e 
+Curriculum: S.Y. B.Tech. Computer Engineering 
+ 
+Replacement Algorithm: First in First Out (FIFO), Least Recently Used 
+(LRU), Optimal 
+IV 
+File Management and Administration 
+File management: Directory Structure, File Systems in Operating System., 
+Disk scheduling algorithms (FIFO, SSTF, SCAN, C-SCAN) 
+Roles of a system administrator, Linux Shell & command-line tools, File 
+permissions & ACLs, Package management (APT, YUM, DNF), System 
+services & logging (journalctl), Networking basics: ifconfig, ip, netplan 
+  8    
+ 
+Total 
+30 
+Text Books: 
+1. Abraham Silberschatz, Peter Baer Galvin and Greg Gagne, “Operating System Concepts” 9th 
+Edition-2013, WILEY, ISBN 978-1-118-06333-0. 
+2. Stallings W., "Operating Systems - internals and design principles", 9th Edition - 2018, Pearson, 
+ISBN - 13: 978 – 013 – 467 – 0959 
+Reference Books: 
+1. Andrew S. Tanenbaum; “Modern Operating Systems”, Prentice Hall of India Publication; 4th 
+Edition - 2015. ISBN - 13: 978 – 0133 – 591620. 
+2. Thomas W. Doeppner, “Operating System in depth: Design and Programming”, WILEY, 1st   
+Edition -2011, ISBN: 978- 0-471-68723-8. 
+3. Dhamdhere D., "Systems Programming and Operating Systems", Revised 2nd Edition- 2009, 
+McGraw Hill, ISBN - 13: 9780074635797. 
+e-Books: 
+1. https://repository.dinus.ac.id/docs/ajar/Operating_System.pdf 
+MOOC / NPTEL/YouTube Links: 
+1. NPTEL Course: Operating System- by Prof. Sorav Bansal, IIT Delhi.  
+https://archive.nptel.ac.in/courses/106/102/106102132/   
+2. NPTEL Course: Operating System Fundamentals – by Prof. Santanu Chattopadhyay, IIT 
+Kharagpur 
+https://archive.nptel.ac.in/courses/106/105/106105214/   
+ 
+ 
+ 
+
+
+=== PAGE 15 ===
+ 
+11| P a g e 
+Curriculum: S.Y. B.Tech. Computer Engineering 
+ 
+Program 
+S.Y. B.Tech (Computer Engineering) 
+Semester: III 
+Course 
+Data Structures 
+Code: 
+CE25PCC-202 
+Credits 
+Teaching Scheme (Hrs./Week) 
+Examination Scheme and Marks 
+Lecture 
+Practical 
+Tutorial 
+UT 
+FA 
+SA 
+Total 
+2 
+2 
+- 
+- 
+25 
+25 
+50 
+100 
+Pre-requisites: Prior knowledge of programming fundamentals, problem solving skills is essential. 
+Course Objectives: This course aims at enabling students: 
+1. To introduce the fundamental concepts of data organization and memory representation. 
+2. To develop the ability to analyze, select, and apply efficient searching and sorting techniques 
+for data organization and retrieval. 
+3. To introduce the concept of stacks, their implementation methods, and their role in expression 
+processing and function execution. 
+5. To introduce queue structures, their variations, and implementation techniques, and to 
+demonstrate their role in system-level applications such as scheduling and resource 
+management. 
+Course Outcomes: After completion of the course, the students will be able to: 
+CO1: Choose appropriate data structures by evaluating the memory requirements of a given   
+ 
+application. 
+CO2: Implement suitable searching and sorting algorithms for a given problem scenario. 
+CO3: Apply stack operations to perform expression conversion and evaluation, and to manage recursion 
+ 
+and function call execution. 
+CO4: Utilize appropriate queue structures to efficiently solve problems in CPU scheduling, task 
+ 
+management, and resource allocation. 
+Course Contents 
+Unit 
+Description 
+Duration 
+[Hrs] 
+I 
+Introduction to Data Structures and Memory Representation 
+Concept of data, information, and data structures; Abstract Data Types 
+(ADT); Classification of Data Structure; Array: types, operations on array; 
+memory representation Linked list: types – singly, doubly, circular linked 
+lists, operations, memory representation. 
+8 
+II 
+Searching and Sorting Techniques 
+Searching: 
+Linear 
+and 
+binary 
+search 
+with 
+examples.  
+Sorting: internal and external sorting, stable and unstable sorting, Bubble 
+sort, Selection sort, Insertion sort, Quick sort, Merge sort. 
+7 
+III 
+Stack 
+Definition, Stack operations, Stack as an ADT, implementation using arrays 
+and linked lists; applications – recursion, Infix, Prefix, Postfix Expression 
+conversion, Expression evaluation; stack frame and function call mechanism. 
+8 
+
+
+=== PAGE 16 ===
+ 
+12| P a g e 
+Curriculum: S.Y. B.Tech. Computer Engineering 
+ 
+IV 
+Queue 
+Definition, Queue operations, implementation using arrays and linked lists; 
+circular queue, double-ended queue, priority queue; applications of queues 
+in system design (e.g., CPU scheduling, print queue). 
+  7   
+ 
+Total 
+30 
+Text Books: 
+1. Sartaj Sahni, “Data Structures, Algorithms & Applications in C++”, 2nd Edition-2005, 
+Universities Press, ISBN-13: 9788173715228 
+2. Yashavant P. Kanetkar, “Data Structure Through C++”, 4th Edition -2022, BPB Publications, 
+ISBN-13: 978-8176567077. 
+Reference Book: 
+1. Mark Allen Weiss, “Data Structures and Algorithm Analysis in C++”, 2nd Edition- 2001, Pearson 
+Education, ISBN: 978-0201361223. 
+2. Ellis Horowitz and Sartaj Sahni, “Fundamentals of Data Structures in C++”, 2nd Edition-2007, 
+Silicon Press, ISBN-13: 978-0929306407. 
+3. D. S. Malik, “Data Structures Using C++”, 2nd Edition- 2012, Cengage Learning, ISBN: 978-
+8131518236. 
+e-Books: 
+1. https://archive.org/details/fundamentalsofda00elli  
+2. https://archive.org/details/datastructuresusingc_202011 
+3. https://web.itu.edu.tr/~sgunduz/courses/bil206_15/cormen.pdf  
+4. https://archive.org/details/datastructuresalgorithmanalysisincmarkallenweiss  
+MOOC / NPTEL / SWAYAM Courses: 
+1. Naveen Garg, “Data Structures and Algorithms”, NPTEL, IIT Delhi, 2015. 
+https://nptel.ac.in/courses/106/102/106102064/  
+2. Sanjiva Prasad, “Introduction to Automata, Languages and Computation”, NPTEL, IIT Delhi, 
+2018.  
+https://nptel.ac.in/courses/106/102/106102132/  
+3. Anupam Basu, “Artificial Intelligence”, NPTEL, IIT Kharagpur, 2018. 
+https://nptel.ac.in/courses/106/106/106106131/  
+ 
+ 
+
+
+=== PAGE 17 ===
+ 
+13| P a g e 
+Curriculum: S.Y. B.Tech. Computer Engineering 
+ 
+Program 
+S.Y. B.Tech (Computer Engineering) 
+Semester: III 
+Course 
+Data Structures Laboratory 
+Code: 
+CE25PCC-203 
+Credits 
+Teaching Scheme (Hrs./Week) 
+Examination Scheme and Marks 
+Lecture 
+Practical 
+Tutorial 
+PR 
+OR 
+TW 
+Total 
+2 
+- 
+4 
+- 
+50 
+- 
+25 
+75 
+Pre-requisites: Prior knowledge of Programming language and Data structures is essential. 
+Course Objectives: This course aims at enabling students: 
+1. To implement arrays and linked lists for efficient data storage and retrieval. 
+2. To apply fundamental searching and sorting algorithms for data organization. 
+3. To help students understand the stack data structure and its applications in expression 
+evaluation      
+4. and backtracking. 
+5. To familiarize students with queue types and operations for managing sequential data 
+processing. 
+Course Outcomes: After completion of the course, the students will be able to: 
+CO1: Perform operations such as insertion, deletion, and traversal on arrays and linked lists. 
+CO2: Implement various searching and sorting techniques. 
+CO3: Solve problems such as expression conversion/evaluation using stack. 
+CO4: Apply Queue data structure in scheduling and resource management tasks such as CPU 
+ 
+scheduling, task buffering, and request handling. 
+ 
+Guidelines for Laboratory Conduction 
+The instructor is expected to conduct Three assignments from each group (A, B, C, D). The instructor 
+may set multiple sets of assignments and distribute them among batches of students. 
+ 
+Guidelines for Students Journal and term work assessment 
+The laboratory assignments are to be submitted by student in the form of journal. Journal consists of 
+Certificate, table of contents, and handwritten write-up of each assignment (Title, Objectives, Problem 
+Statement, Outcomes, software and Hardware requirements, Date of Completion, Assessment 
+grade/marks and assessor’s sign, Theory Concept in brief, algorithm, flowchart, test cases, Test Data 
+Set (if applicable), mathematical model (if applicable), conclusion/analysis. 
+Continuous assessment of laboratory work should be done based on overall performance of student. 
+Assessment of the student should be based on predefined rubrics finalized during course meetings.  
+Guidelines for Practical Examination 
+Both internal and external examiners should jointly set problem statements. During practical 
+assessment, the expert evaluator should give the maximum weightage to the satisfactory 
+implementation of the problem statement. The supplementary and relevant questions may be asked at 
+
+
+=== PAGE 18 ===
+ 
+14| P a g e 
+Curriculum: S.Y. B.Tech. Computer Engineering 
+ 
+the time of evaluation to test the students for advanced learning, understanding of the fundamentals, 
+effective and efficient implementation. So encouraging efforts, transparent evaluation and fair 
+approach of the evaluator will not create any uncertainty or doubt in the minds of the students. So 
+adhering to these principles will consummate our team efforts to the promising start of the student’s 
+academics. 
+Suggested List of Experiments/Assignments 
+Sl. No 
+Problem Statement 
+Group A 
+1 
+Write a program for the Student Information System which stores details of N students 
+(Roll No, Name, CGPA). Write functions for the following: 
+a. Insert a new student at a given position 
+b. Delete a student by roll number 
+c. Search a student by roll number and display the record 
+d. Display all students stored in the array 
+2 
+Create a program to maintain daily attendance of students using a singly linked list. 
+Write functions to: 
+a. Insert attendance (P/A) at the end of the list 
+b. Update the attendance of a given day 
+c. Calculate total number of Present and Absent days 
+d. Display the complete attendance list 
+3 
+Write a program to maintain a list of students sorted by roll number using a doubly 
+linked list. Implement functions to: 
+a. Insert a student so that the list remains sorted 
+b. Delete a student by roll number 
+c. Traverse the list forward to display all students 
+d. Traverse backward to display all students in reverse order 
+4 
+Write a program that stores Internal Assessment (IA) marks of N students using both 
+array and linked list. Implement: 
+a. Insert student marks in both structures 
+b. Display memory representation/index nodes 
+c. Count how many students scored more than 80 marks 
+Group B 
+5 
+Write a program for preparing a merit list of students based on CGPA. Implement: 
+a. Selection sort for descending CGPA 
+b. Insertion sort and count number of shifts 
+c. Display the top 5 students 
+6 
+Write a program for an academic office to search a student record (Roll No, Name, 
+Division). Implement: 
+a. Linear search by Name 
+
+
+=== PAGE 19 ===
+ 
+15| P a g e 
+Curriculum: S.Y. B.Tech. Computer Engineering 
+ 
+b. Binary search by Roll Number (use sorting) 
+c. Display number of comparisons for each search 
+7 
+Write a program to arrange student percentages using Quick Sort. Implement: 
+a. Partition the list 
+b. Recursively apply Quick Sort 
+c. Display the sorted percentage list 
+8 
+Write a program to store the percentage of students in an array. Write function for sorting 
+array of floating-point numbers in ascending order using: 
+a. Selection Sort  
+b. Bubble sort and display top five scores.  
+Group C 
+9 
+Write a program to simulate the browser history of a student portal using a stack. 
+Implement functions to: 
+a. Visit a new page (push URL) 
+b. Go back to the previous page (pop URL) 
+c. Display the current page 
+d. Show the entire browsing history stack 
+10 
+Given a marks calculation formula (infix), write a program to: 
+a. Convert infix expression to postfix 
+b. Evaluate postfix expression for given inputs 
+11 
+Write a Program for Parenthesis checking in an expression using stack. 
+12 
+Write a program for the College Billing System to compute the final payable fees of a 
+student. 
+The administrator enters the fee calculation formula in infix form, for example: 
+a. Read the fee formula in infix form as entered by the administrator. 
+b. Convert the infix expression into postfix using a stack. 
+c. Display the postfix expression after conversion. 
+d. Accept values for Tuition, Hostel, ExamFee, and Scholarship from the user. 
+e. Evaluate the postfix expression using a stack. 
+f. Display the final payable fees for the student. 
+g. Also display intermediate stack contents during postfix conversion and evaluation. 
+Group D 
+13 
+Write a program to simulate the admission queue of students. 
+a. Enqueue student token number 
+b. Dequeue and display student processes 
+c. Display front and rear token number 
+d. Display complete queue 
+
+
+=== PAGE 20 ===
+ 
+16| P a g e 
+Curriculum: S.Y. B.Tech. Computer Engineering 
+ 
+14 
+Write a program using circular queue for bus pass distribution. 
+a. Insert student IDs in circular queue 
+b. Delete student ID as pass is issued 
+c. Detect queue full/empty conditions 
+d. Display the circular queue 
+15 
+Write a program using priority queue where priority = higher CGPA. 
+a. Insert student with CGPA 
+b. Delete the highest CGPA student 
+c. Display queue after each operation 
+d. Count students processed 
+16 
+Student Service Desk Using Deque: Write a program using deque for student service 
+requests. 
+a. Add emergency cases at front 
+b. Add normal cases at rear 
+c. Serve from front 
+d. Display deque after each operation 
+Reference Book: 
+1. Mark Allen Weiss, “Data Structures and Algorithm Analysis in C++”, 2nd Edition- 2001, 
+Pearson Education, ISBN: 978-0201361223. 
+2. Ellis Horowitz and Sartaj Sahni, “Fundamentals of Data Structures in C++”, 2nd Edition-2007, 
+Silicon Press, ISBN-13: 978-0929306407. 
+3. D. S. Malik, “Data Structures Using C++”, 2nd Edition- 2012, Cengage Learning, ISBN: 978-
+8131518236. 
+ 
+ 
+
+
+=== PAGE 21 ===
+ 
+17| P a g e 
+Curriculum: S.Y. B.Tech. Computer Engineering 
+ 
+Program 
+S.Y.B. Tech (Computer Engineering) 
+Semester: III 
+Course 
+Object Oriented Programming 
+Code: 
+CE25PCC-204 
+Credits 
+Teaching Scheme (Hrs./Week) 
+Examination Scheme and Marks 
+Lecture 
+Practical 
+Tutorial 
+UT 
+FA 
+SA 
+Total 
+2 
+2 
+- 
+- 
+25 
+25 
+50 
+100 
+Pre-requisites: Prior knowledge of Programming and Problem Solving is essential. 
+Course Objectives: This course aims at enabling students: 
+1. To introduce object-oriented programming concepts and their implementation in C++. 
+2. To develop problem-solving skills using class-based and modular programming. 
+3. To design robust and efficient applications by using inheritance, polymorphism, exception 
+handling, pointers and file operations. 
+4. To prepare students for GUI programming and application development. 
+Course Outcomes: After completion of the course, the students will be able to: 
+CO1: Implement reusable programming code by using inheritance, polymorphism, exception handling 
+ 
+and pointers. 
+CO2: Develop the application using object-oriented programming language (C++). 
+CO3: Analyze the strengths of object-oriented programming. 
+CO4: Perform file handling operations using Object Oriented Programming. 
+Course Contents 
+Unit 
+Description 
+Duration 
+[Hrs] 
+I 
+Fundamentals of Object-Oriented Programming 
+Introduction to object-oriented programming, Need of OOP, Fundamentals 
+of OOP – class, object, datatypes, abstraction, encapsulation, inheritance, 
+polymorphism, message passing. C++ Programming- Basics, Functions, 
+Constructor and destructor, Inline function, friend function. 
+Case Study Story of C++ invention by Bjarne Stroustrup 
+07 
+II 
+Inheritance and Polymorphism 
+Inheritance – Types of Inheritance: single, multilevel, multiple, hierarchical 
+and hybrid, Ambiguity in Multiple Inheritance. 
+Polymorphism-Introduction to Polymorphism, Types of Polymorphism, 
+Operator Overloading concepts. 
+Case Study Study about use of C++ SDKs wrappers for Java and .Net. 
+08 
+III 
+Exception Handling and Pointers 
+Exception Handling-  Fundamentals of Exception Handling, multiple 
+catching nested try statements uncaught exceptions throw and rethrow Stack 
+unwinding. 
+08 
+
+
+=== PAGE 22 ===
+ 
+18| P a g e 
+Curriculum: S.Y. B.Tech. Computer Engineering 
+ 
+Pointers: declaring and initializing pointers, indirection Operators, Memory 
+Management: new and delete, Pointers to Objects, this pointer, Pointers Vs 
+Arrays, accessing Arrays using pointers. 
+Case Study Study about use of exception handling in Symbian Operating 
+System that was developed using C++. 
+ 
+IV 
+File Handling 
+Classes for file stream operation, Opening and closing a File-File mode, Error 
+Handling functions in file, File Operations on Characters, File Operations 
+on Binary Files Variables, Class Objects, Sequential File Organization, 
+Direct Access Files, indexed sequential File organization, Linked 
+Organization. 
+Case Study Study features used for Microsoft Office, Internet Explorer and 
+Visual Studio that are written in Visual C++ 
+07 
+ 
+Total 
+30 
+Text Books: 
+1. Ivor Horton, Peter Van Weert, “Beginning C++20”, Novice Professional, Sixth Edition, 2020, 
+ISBN-13:978-1484258835 (ISBN-10: 1484258835)  
+2.  Robert Lafore, “OOP in C++”, Pearson Publishing, 4th Edition, 2001, ISBN:0672323087 (ISBN 
+13: 9780672323089) 
+Reference Books: 
+1. E. Balagurusamy, “Object-Oriented Programming with C++”, McGraw Hill Education, Eighth 
+Edition, Sept. 2020, ISBN-13: 978-9389949186. 
+2. Herbert Schildt, C++The complete reference, Eighth Edition, McGraw Hill Professional, 2011, 
+ISBN:978-00 72226805. 
+3. Bjarne Stroustrup, The C++ Programming language, Third edition, 2008, Pearson Education. 
+ISBN 9780201889543 
+4. Matt Weisfeld,“The Object-Oriented Thought Process”, Third Edition Pearson ISBN-13:075- 
+2063330166. 
+e-Books:  
+1. https://www.ebookphp.com/object-oriented-programming-in-c-epub-pdf/  
+2. For https://www.springer.com/gp/book/9781447133780  
+MOOC/ Video Lectures available at: 
+1. NPTEL Course: Fundamentals of Object Oriented Programming By Prof. Balasubramanian 
+Raman, IIT Roorkee  
+https://onlinecourses.nptel.ac.in/noc25_cs34/ 
+2. Basics of Object Oriented Programming (Free Course) 
+https://www.mygreatlearning.com/academy/learn-for-free/courses/basics-of-object-oriented-
+programming   
+3. NPTEL Course: Data Structures and Algorithms By Naveen Garg , IIT Delhi 
+https://nptel.ac.in/courses/106/102/106102064/  
+ 
+
+
+=== PAGE 23 ===
+ 
+19| P a g e 
+Curriculum: S.Y. B.Tech. Computer Engineering 
+ 
+Program 
+S.Y. B.Tech (Computer Engineering) 
+Semester: III 
+Course 
+Object Oriented Programming Laboratory 
+Code 
+CE25PCC-205 
+Credits 
+Teaching Scheme (Hrs./Week) 
+Examination Scheme and Marks 
+Lecture 
+Practical 
+Tutorial 
+TW 
+OR 
+PR 
+Total 
+2 
+- 
+4 
+- 
+25 
+- 
+50 
+75 
+Pre-requisites: Prior knowledge of Object-Oriented Programming (OOP) concepts is essential. 
+Course Objectives: This course aims at enabling students: 
+1. To utilize Object-Oriented Programming concepts to solve real-world problems. 
+2. To develop the ability to design and implement modular, reusable, and maintainable 
+programs using OOP concepts. 
+3. To provide hands-on experience in solving real-time problems through object-oriented 
+approaches. 
+4. To strengthen practical skills in using constructors, file handling, exception handling, and 
+dynamic memory management. 
+Course Outcomes: After completion of the course, the students will be able to: 
+CO1: Design reusable programming code by using inheritance, polymorphism, and exception handling 
+ 
+concepts. 
+CO2: To implement efficient object initialization and resource management by using constructors and 
+ 
+destructors. 
+CO3: By applying the concept of map associative container, class and function template design the 
+ 
+application. 
+CO4: Apply file-handling techniques to store and retrieve data effectively from secondary storage.  
+Guidelines for Students: 
+1. Each student must perform all the assignments. 
+2. Assignments should be implemented in C++ language. 
+3. Operating System recommended: - 64-bit Open-source Linux or its derivative. 
+4. Programming tools recommended: - G++/GCC, Eclipse 
+Course Contents 
+Suggested List of Experiments/Assignments 
+Sl. No. 
+Problem Statement 
+1 
+Implement a class Complex which represents the Complex Number data type. Implement 
+the following Constructor (including a default constructor which creates the complex 
+number 0+0i). Overload operator+ to add two complex numbers. Overload operator* to 
+multiply two complex numbers. Overload operators << and >> to print and read Complex 
+Numbers. 
+2 
+To create a class staff having fields: Staff-id, name, salary and functions accept() and 
+display(). Calculate DA=25% of basic salary, HRA=800, I-tax=15% of basic salary. 
+
+
+=== PAGE 24 ===
+ 
+20| P a g e 
+Curriculum: S.Y. B.Tech. Computer Engineering 
+ 
+Display the pay slip using appropriate output format. 1) To accept the data 2) To display 
+the data 3) To sort the data by name 
+3 
+Imagine a publishing company which does marketing for book and audio cassette versions. 
+Create a class publication that stores the title (a string) and price (type float) of publications. 
+From this class derive two classes: book which adds a page count (type int) and tape which 
+adds a playing time in minutes (type float). 
+Write a program that instantiates the book and tape class, allows user to enter data and 
+displays the data members. If an exception is caught, replace all the data member values 
+with zero values. 
+4 
+Write a C++program to implement the matrix ADT using a class. The operations 
+supported by this ADT are:  
+a. Reading a matrix.  
+b. Addition of matrices.  
+c. Printing a matrix.  
+d. Subtraction of matrices.  
+e. e) Multiplication of matrices 
+5 
+Write a program to illustrate default constructor, parameterized constructor and copy 
+constructors. Program should illustrate the order of execution of constructors and 
+destructors when a new class is derived from more than one base class. 
+6 
+Write a C++ Write a program that creates an output file, writes information into the file, 
+closes it, then reopens the same file as an input file and reads the stored information for 
+display. 
+7 
+Write C++ programs that illustrate how the following forms of inheritance are supported:  
+a. Single inheritance  
+b. Multiple inheritance  
+c. Multilevel inheritance  
+d. Hierarchical inheritance. 
+8 
+Design and implement a generic Library Management System in C++   using Class 
+Templates.  
+9 
+Write a program in C++ to use map associative container. The keys will be the names of 
+states and the values will be the populations of the states. When the program runs, the user 
+is prompted to type the name of a state. The program then looks in the map, using the state 
+name as an index and returns the population of the state. 
+10 
+Develop a C++ program for simulation of any real time application with required 
+functionalities. For eg. ATM machine with functionalities like checking account balance, 
+with drawing, and depositing money. Use try, catch, and finally blocks to handle potential 
+exceptions such as insufficient funds (throwing Arithmetic Exception) and invalid input 
+(throwing Illegal Argument Exception). Ensure that the application continues to run 
+smoothly after handling exceptions. 
+Mini-Projects 
+11 
+Design mini project that uses all OOP assignment concepts. 
+
+
